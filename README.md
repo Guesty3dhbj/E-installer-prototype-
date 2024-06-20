@@ -1,2 +1,2 @@
-# E-installer-prototype-
-an vbs installer made by me
+# E-installer-prototype
+if you installed the vbs edit it. and put your pc name
